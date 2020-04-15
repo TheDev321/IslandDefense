@@ -1,0 +1,17 @@
+{
+    "GEMS": {
+        "Name": "Gems",
+        "Amount": 1200
+    },
+ 
+    "COINS": {
+        "Name": "Air",
+        "Amount": 500
+    },
+ 
+    "GIVEMEAIR": {
+        "Name": "Air",
+        "Amount": 250
+    }
+ 
+}
