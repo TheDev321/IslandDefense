@@ -15,7 +15,13 @@
     },
     
     "Players": {
-        "TheDev321"
+        [TheDev321]: {
+        
+        },
+        
+        [Gnuffle]: {
+        
+        }
     }
  
 }
